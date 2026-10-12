@@ -1,4 +1,4 @@
-<h1 style="color: darkblue;">Ayzek Egitimi</h1>
+<h1 color="darkblue" align="center">Ayzek Egitimi</h1>
 
 ![image alt](https://github.com/DovletM2303/Ayzek-egitimi/blob/f695ca0e3b7e1399d68bdaacabc42a28425412c1/ayzek_image.jpg)
 
